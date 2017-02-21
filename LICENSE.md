@@ -1,4 +1,4 @@
-Copyright (c) KnivD
+Copyright (c) KnivD.
 All rights reserved.
 
 Redistribution and use with or without modification, are permitted provided that the autor is recognised and credited for the original design.
